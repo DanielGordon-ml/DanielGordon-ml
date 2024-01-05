@@ -12,7 +12,7 @@ Skilled in communicating complex technical ideas effectively, I excel in both in
 
 ---
 
-**Experience:**
+**Experience 💼:**
 
 - **Data Scientist & Researcher (2023 - Present):** 
   - Specializing in SOTA forecasting methods, Machine Learning, Deep Learning on time series data, and Digital Signal Processing.
@@ -22,7 +22,7 @@ Skilled in communicating complex technical ideas effectively, I excel in both in
 
 ---
 
-**Education:**
+**Education 👨‍🎓:** 
 
 - **Ph.D. Studies in Electrical Engineering, Technion**
 - **M.Sc. in Mathematics, Ben-Gurion University**
@@ -48,13 +48,13 @@ Skilled in communicating complex technical ideas effectively, I excel in both in
 ---
 
 **In My Free Time:**
-In my free time I love to cook, play the piano (classical music <3) and draw
+In my free time I love to cook 🍝🍷, play the piano 🎼 and draw🎨
 
 ---
 
 **Contact Me:**
 
-- Email: [Daniel.lh.gordon@gmail.com](mailto:Daniel.lh.gordon@gmail.com)
+- 📩: [Daniel.lh.gordon@gmail.com](mailto:Daniel.lh.gordon@gmail.com)
 - LinkedIn: [www.linkedin.com/in/daniel-lh-gordon]
 
 ---
