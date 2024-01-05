@@ -13,9 +13,9 @@ I'm a dedicated and innovative Data Scientist with a strong background in mathem
 
 **Experience:**
 
-- **Comblack (2023 - Present):** Data Scientist & Researcher
+- **Data Scientist & Researcher (2023 - Present):** 
   - Specializing in SOTA forecasting methods, Machine Learning, Deep Learning on time series data, and Digital Signal Processing.
-- **MYOR Diagnostics (2022 - 2023):** Computer Vision Data Scientist & Researcher
+- **Computer Vision Data Scientist & Researcher (2022 - 2023):** 
   - Focused on E2E computer vision methods for non-invasive skin diseases diagnostics and collaboration with notable groups and health organizations.
 - **The Open University, Ben-Gurion University, The Hebrew University (2017-2021):** Academic roles in teaching and research, enhancing skills in data analysis and statistical models.
 
