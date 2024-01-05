@@ -55,6 +55,6 @@ In my free time I love to cook, play the piano (classical music <3) and draw
 **Contact Me:**
 
 - Email: [Daniel.lh.gordon@gmail.com](mailto:Daniel.lh.gordon@gmail.com)
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: [www.linkedin.com/in/daniel-lh-gordon]
 
 ---
