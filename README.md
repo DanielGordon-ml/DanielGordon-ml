@@ -1,5 +1,5 @@
 
-### Hi there, I'm Daniel Gordon (Abargil) 👋
+### Hi there, my name is Daniel Gordon 👋
 
 #### Data Scientist / Researcher | Passionate about AI, ML, and DSP
 
@@ -7,7 +7,8 @@
 
 **About Me:**
 
-I'm a dedicated and innovative Data Scientist with a strong background in mathematical concepts and a proven track record in AI. Skilled in communicating complex technical ideas effectively, I excel in both independent and collaborative problem-solving, tackling complex and vital issues while continuously expanding my knowledge and skills.
+I'm a dedicated and innovative Data Scientist with a strong background in mathematical concepts and a proven track record in AI.<br>
+Skilled in communicating complex technical ideas effectively, I excel in both independent and collaborative problem-solving, tackling complex and vital issues while continuously expanding my knowledge and skills.
 
 ---
 
@@ -23,15 +24,16 @@ I'm a dedicated and innovative Data Scientist with a strong background in mathem
 
 **Education:**
 
-- **Ph.D. Studies in Electrical Engineering, Technion (2021-2022)**
-- **M.Sc. in Mathematics, Ben-Gurion University (2018-2020)**
-- **B.Sc. in Mathematics, The Hebrew University of Jerusalem (2015-2018)**
+- **Ph.D. Studies in Electrical Engineering, Technion**
+- **M.Sc. in Mathematics, Ben-Gurion University**
+- **B.Sc. in Mathematics, The Hebrew University of Jerusalem**
 
 ---
 
 **Skills:**
 
 - **Languages & Frameworks:** Python, SQL, Spark, TensorFlow, ScikitLearn
+- **Packages:** Numpy, Scipy, Pandas, Matplotlib, Statasmodels, DoWhy, Kearas, Hugging Face
 - **Tools:** Docker, Git, AWS, LATEX
 - **Soft Skills:** Self-learner, Team Leader, Effective under pressure
 
@@ -45,21 +47,14 @@ I'm a dedicated and innovative Data Scientist with a strong background in mathem
 
 ---
 
+**In My Free Time:**
+In my free time I love to cook, play the piano (classical music <3) and draw
+
+---
+
 **Contact Me:**
 
 - Email: [Daniel.lh.gordon@gmail.com](mailto:Daniel.lh.gordon@gmail.com)
 - LinkedIn: [Add your LinkedIn URL here]
 
 ---
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
