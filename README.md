@@ -7,14 +7,14 @@
 
 **About Me:**
 
-I'm a dedicated and innovative Data Scientist with a strong background in mathematical concepts and a proven track record in AI.<br>
+With a strong background in mathematical concepts and a proven track record in AI I am mostly intrested in cooperativce multi-agents system.<br>
 Skilled in communicating complex technical ideas effectively, I excel in both independent and collaborative problem-solving, tackling complex and vital issues while continuously expanding my knowledge and skills.
 
 ---
 
 **Experience 💼:**
 
-- **Data Scientist & Researcher (2023 - Present):** 
+- **AI Researcher & Data Scientist Team Leader (2023 - Present):** 
   - Specializing in SOTA forecasting methods, Machine Learning, Deep Learning on time series data, and Digital Signal Processing.
 - **Computer Vision Data Scientist & Researcher (2022 - 2023):** 
   - Focused on E2E computer vision methods for non-invasive skin diseases diagnostics and collaboration with notable groups and health organizations.
@@ -32,7 +32,7 @@ Skilled in communicating complex technical ideas effectively, I excel in both in
 
 **Skills:**
 
-- **Languages & Frameworks:** Python, SQL, Spark, TensorFlow, ScikitLearn
+- **Languages & Frameworks:** Python, SQL, PydanticAI, LangChain/LangGraph
 - **Packages:** Numpy, Scipy, Pandas, Matplotlib, Statasmodels, DoWhy, Kearas, Hugging Face
 - **Tools:** Docker, Git, AWS, LATEX
 - **Soft Skills:** Self-learner, Team Leader, Effective under pressure
