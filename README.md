@@ -17,9 +17,9 @@
 `Python` `AWS (Bedrock)` `AzureAI` `LangGraph` `TensorFlow` `Scikit-Learn` `Hugging Face` `Docker` 
 
 ### 📜 Selected Research & Publications
-* [cite_start]**DIGITAL HEALTH (2024):** Co-authored *"Artificial intelligence-enabled non-invasive ubiquitous anemia screening"*[cite: 55].
-* [cite_start]**Vertebrate Biology (2018):** Co-authored *"A review of sexual dimorphism of eye size in Colubroidea snakes"*[cite: 57].
-* [cite_start]**Defense Tech:** Conducted research and simulations (SARIMA, RNNs, LLMs) for the Israeli Ministry of Defense to improve outcome predictability[cite: 23, 25, 26].
+* **DIGITAL HEALTH (2024):** Co-authored *"Artificial intelligence-enabled non-invasive ubiquitous anemia screening"*.
+* **Vertebrate Biology (2018):** Co-authored *"A review of sexual dimorphism of eye size in Colubroidea snakes"*.
+* **Defense Tech:** Conducted research and simulations (SARIMA, RNNs, LLMs) for the Israeli Ministry of Defense to improve outcome predictability.
 
 ---
 <div align="center">
