@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Current Work
-* **Sympera AI:** Leading a 30-person R&D team building enterprise-grade agentic AI solutions for the banking sector (recognized as a 2025 Gartner Cool Vendor).
+* **Sympera AI:** Leading the R&D team building enterprise-grade agentic AI solutions for the banking sector (recognized as a 2025 Gartner Cool Vendor).
 * **Tel-Aviv University:** Pursuing my PhD in Electrical Engineering, focusing entirely on Distributed Multi-Agent Reinforcement Learning.
 
 ### 🛠️ Core Tech Stack
