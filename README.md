@@ -17,8 +17,8 @@
 `Python` `AWS (Bedrock)` `AzureAI` `LangGraph` `TensorFlow` `Scikit-Learn` `Hugging Face` `Docker` 
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielGordon-ml&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGordon-ml&layout=compact&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielGordon-ml&show_icons=true&bg_color=0d1117&title_color=2ea043&text_color=3fb950&icon_color=2ea043&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGordon-ml&layout=compact&bg_color=0d1117&title_color=2ea043&text_color=3fb950&hide_border=true" />
 </div>
 
 
