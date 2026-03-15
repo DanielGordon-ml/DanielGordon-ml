@@ -16,6 +16,12 @@
 ### 🛠️ Core Tech Stack
 `Python` `AWS (Bedrock)` `AzureAI` `LangGraph` `TensorFlow` `Scikit-Learn` `Hugging Face` `Docker` 
 
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielGordon-ml&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGordon-ml&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+
 ### 📜 Selected Research & Publications
 * **DIGITAL HEALTH (2024):** Co-authored *"Artificial intelligence-enabled non-invasive ubiquitous anemia screening"*.
 * **Vertebrate Biology (2018):** Co-authored *"A review of sexual dimorphism of eye size in Colubroidea snakes"*.
