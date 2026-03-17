@@ -14,7 +14,7 @@
 * **Tel-Aviv University:** Pursuing my PhD in Electrical Engineering, focusing entirely on Distributed Multi-Agent Reinforcement Learning.
 
 ### 🛠️ Core Tech Stack
-`Python` `AWS (Bedrock)` `AzureAI` `LangGraph` `TensorFlow` `Scikit-Learn` `Hugging Face` `Docker` 
+`Python` `AWS` `AzureAI` `LangGraph` `TensorFlow` `Scikit-Learn` `Hugging Face` `Docker` `Unsloth`
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielGordon-ml&show_icons=true&bg_color=0d1117&title_color=2ea043&text_color=3fb950&icon_color=2ea043&hide_border=true" />
